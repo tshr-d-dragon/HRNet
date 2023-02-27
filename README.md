@@ -1,6 +1,6 @@
 # HRNet
 
-Implementation of HRNet model for Classification and Semantic Segmentation tasks using Keras framework
+Implementation of HRNet model for Classification and Semantic Segmentation tasks
 
 ## HRNet:
 ### paper link: https://arxiv.org/pdf/1908.07919v2.pdf
